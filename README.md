@@ -1,4 +1,4 @@
-# General-Process-Proccesor
+# General-Purpose-Proccesor
 
 The main objective of this laboratory project was to create a processor by applying the knowledge acquired from our Digital Systems class. We created the components required using combinational and sequential circuits to accomplish this. These components included an Arithmetic and Logical Unit (ALU), two latches, and a control unit comprised of a Finite State Machine (FSM) and a 4:16 decoder to control the states. In the FSM, we utilized Moore's logic. In essence, this processor performs various operations on two 8-bit inputs based on the current state of the FSM and a 16-bit input from the decoder (control unit). The results of these operations were displayed through connected 7-segment displays and observed through waveform analysis.
 
